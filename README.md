@@ -23,4 +23,3 @@ Below you'll find a list of some of the most common `git` commands. Two neat and
 * `git merge <branch_name>`: merges `<branch_name>` into the current branch.
 * `git rebase <branch_name>`: rebases the current branch with the commits in `<branch_name>`.
 * `git config --global alias.<alias_name> "<alias_command_expansion>"`: creates a new alias.
-* 
